@@ -1,14 +1,12 @@
 <h1 align="center">Hello, there. I'm Anatoli</h1>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Junior Data Scientist</h3>
 
-##Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DogeOk&layout=compact)](https://github.com/DogeOk/github-readme-stats)
+<h2>Codewars:</h2>
 
-##Codewars:
-[![codewars](https://www.codewars.com/users/DogeOk/badges/micro)](https://www.codewars.com/users/DogeOk)
+[![codewars](https://www.codewars.com/users/DogeOk/badges/large)](https://www.codewars.com/users/DogeOk) 
 
-##ML-Skills:
+<h2>ML-Skills:</h2>
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
@@ -17,7 +15,8 @@
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-##Frontend-Skills:
+<h2>Frontend-Skills:</h2>
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
