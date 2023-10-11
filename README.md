@@ -1,5 +1,5 @@
 <h1 align="center">Hello, there. I'm Anatoli</h1>
-<h3 align="center">Junior Data Scientist</h3>
+<h3 align="center">Data Scientist</h3>
 
 <h2>Contact:</h2>
 <a href="https://t.me/soyarov_a"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)"/></a>
