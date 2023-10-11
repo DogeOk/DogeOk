@@ -1,6 +1,9 @@
 <h1 align="center">Hello, there. I'm Anatoli</h1>
 <h3 align="center">Junior Data Scientist</h3>
 
+<h2>Contact:</h2>
+<a href="t.me/soyarov_a">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+
 <h2>Codewars:</h2>
 
 [![codewars](https://www.codewars.com/users/DogeOk/badges/large)](https://www.codewars.com/users/DogeOk) 
